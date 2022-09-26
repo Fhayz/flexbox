@@ -1,0 +1,44 @@
+body{
+    display: flex;
+    
+}
+.flex-container{
+    display: flex;
+    background-color: aqua;
+    margin-top: 225px;
+    margin-left: 225px;
+}
+.flex-container >div{
+    margin: 10px;
+    padding: 30px;
+    ;
+}
+.a{
+    background-color: blueviolet;
+   
+}
+.b{
+    background-color: brown;
+}
+.c{
+    background-color: red;
+}
+.d{
+    background-color: indianred;
+}
+.e{
+    background-color: violet;
+}
+.f{
+    background-color: green;
+}
+.g{
+    background-color: wheat;
+}
+.h{ background-color: pink;}
+.i{
+    background-color: goldenrod;
+}
+.j {
+    background-color: rgb(224, 255, 47);
+}
